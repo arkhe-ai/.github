@@ -13,9 +13,9 @@
 * **Bym:** Music for you (WIP).
 
 <div align="center">
-  <a href="mailto:contact@arkhe.ai">Email</a> • 
+  <!-- <a href="mailto:contact@arkhe.ai">Email</a> •  -->
   <a href="https://linkedin.com/company/arkhe-ai">LinkedIn</a> • 
-  <a href="https://arkhe.ai">Website</a>
+  <a href="https://arkhe-ai.github.io">Website</a>
 </div>
 
 ---
